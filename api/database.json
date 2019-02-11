@@ -1,0 +1,46 @@
+{
+  "favoritefoods": [
+    {
+      "id": 1,
+      "name": "spaghetti",
+      "category": "pasta",
+      "ethnicity": "Italian"
+    },
+    {
+      "id": 2,
+      "name": "pizza",
+      "category": "pie",
+      "ethnicity": "Italian"
+    },
+    {
+      "id": 3,
+      "name": "chicken and dumplings",
+      "category": "soup",
+      "ethnicity": "General"
+    },
+    {
+      "id": 4,
+      "name": "chicken deluxe",
+      "category": "entree",
+      "ethnicity": "Mexican"
+    },
+    {
+      "name": "fish taco",
+      "category": "DELICIOUS",
+      "ethnicity": "MEXICAN",
+      "id": 5
+    },
+    {
+      "name": "fish taco",
+      "category": "DELICIOUS",
+      "ethnicity": "MEXICAN",
+      "id": 6
+    },
+    {
+      "name": "chicken noodle",
+      "category": "soup",
+      "ethnicity": "general",
+      "id": 7
+    }
+  ]
+}
